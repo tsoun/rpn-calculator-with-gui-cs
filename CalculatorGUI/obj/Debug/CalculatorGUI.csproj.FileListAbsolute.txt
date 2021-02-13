@@ -1,0 +1,10 @@
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csprojAssemblyReference.cache
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+T:\!!!Projects!!!\Csharp\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.CalculatorGUI.resources
